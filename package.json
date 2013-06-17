@@ -1,0 +1,19 @@
+{
+  "name": "rum-conf",
+  "version": "0.0.0",
+  "description": "RUM configuration",
+  "main": "index.js",
+  "bin": {
+    "rumconf": "./bin/get.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "rc": "latest",
+    "optimist": "latest"
+  }
+}
