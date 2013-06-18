@@ -1,5 +1,6 @@
 var rc = require('rc');
 
 module.exports = rc('rum', {
-  toto: 'TOTO'
+  aum_username: 'john@example.org',
+  aum_password: '******'
 });
